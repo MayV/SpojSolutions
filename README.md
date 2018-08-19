@@ -1,3 +1,3 @@
 # SpojSolutions
-Contains the solutions for the spoj questions in Java language.
+Contains the solutions for the spoj questions in Java.
 Feel free to pull request.
