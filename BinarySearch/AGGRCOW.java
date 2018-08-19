@@ -1,4 +1,4 @@
-package DynamicProgramming;
+package BinarySearch;
 
 //Variation of Painters Partition Problem.
 
